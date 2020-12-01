@@ -1,2 +1,2 @@
 # hello-world
-info
+new info
